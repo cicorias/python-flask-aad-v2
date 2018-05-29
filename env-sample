@@ -1,0 +1,4 @@
+FLASK_ENV=development
+APP_OAUTH_ID=<get from Application Registration on Azure Portal>
+APP_OAUTH_SECRET=<get from Keys/Password on the same App Registration>
+APP_AAD_TENANT=<Your AAD Domain Name>
